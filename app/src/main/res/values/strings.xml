@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">compose-show-snackbar-globally</string>
+
+    <!-- ScreenA -->
+    <string name="show_snackbar">Show snackbar</string>
+    <string name="show_snackbar_action">Show snackbar with action</string>
+    <string name="navigate_to_screen_b">Navigate to ScreenB</string>
+
+    <!-- ScreenB -->
+    <string name="screen_b">ScreenB</string>
+</resources>
